@@ -9,7 +9,7 @@ Tenho base sólida em Python e Java e valorizo a escrita de código limpo, organ
 - 🔭 **Atualmente focado em:** Buscar uma oportunidade efetiva (Júnior) como Desenvolvedor Back-end, mas com total abertura e capacidade para atuar como Full-Stack.
 - 🌱 **Aprendendo sobre:** Segurança em aplicações web (OWASP), análise de dados com R e aprofundamento em arquitetura e boas práticas de software.
 - 💬 **Pergunte-me sobre:** Python, Django, Wagtail, Java, Spring Boot, SQL e Arquitetura de Software.
-- 📫 **Como me encontrar:** [seu.email@exemplo.com](mailto:du.felipesilva@gmail.com)
+- 📫 **Como me encontrar:** [du.felipesilva@gmail.com](mailto:du.felipesilva@gmail.com)
 - ⚡ **Características:** Proativo, orientado à resolução de problemas e apaixonado por criar soluções que impactam o usuário.
 
 ---
