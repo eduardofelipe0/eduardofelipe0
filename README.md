@@ -22,7 +22,7 @@ Tenho base sólida em Python e Java e valorizo a escrita de código limpo, organ
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
@@ -31,10 +31,8 @@ Tenho base sólida em Python e Java e valorizo a escrita de código limpo, organ
 
 ### 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardofelipe0&show_icons=true&theme=radical" alt="Estatísticas do Eduardo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofelipe0&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</div>
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardofelipe0&show_icons=true&theme=dark&include_all_commits=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofelipe0)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
