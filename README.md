@@ -92,7 +92,7 @@ Desenvolvimento de uma aplicação Full Stack com Java, Spring Boot e Angular, v
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=eduardofelipe0&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Eduardo GitHub stats](https://github-stats-extended.vercel.app/api?username=eduardofelipe0&show_icons=true&theme=dark&include_all_commits=true)
 
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofelipe0&layout=compact&theme=github_dark&hide_border=true)
 
